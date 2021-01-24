@@ -1,3 +1,3 @@
 # my-website
 
-New update coming
+New update done
